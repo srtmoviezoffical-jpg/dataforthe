@@ -1,6 +1,6 @@
 {
   "movies_api_url": "https://filmyflex.jsyisbsi.workers.dev/api",
-  "app_version": "1.0.0",
+  "app_version": "1.0.1",
   "min_version": "1.0.0",
   "update_download_url": "https://example.com/download/app.apk",
   "force_update": false,
