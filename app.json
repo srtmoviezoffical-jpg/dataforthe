@@ -4,6 +4,6 @@
   "min_version": "1.0.0",
   "update_download_url": "https://example.com/download/app.apk",
   "force_update": false,
-  "maintenance": false,
+  "maintenance": true,
   "deals_api_url": "https://example.com/api/deals"
 }
